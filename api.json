@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/roc",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "roc",
+    "name": "Roc (الرخ / Rukh)",
+    "aliases": [],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Universal mythological pattern",
+    "tags": [
+      "and-meaning"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The Roc (Arabic: الرخ, romanized: al-Rukh; also spelled Rukh, Ruc, or Rokh) is a legendary giant bird of prey from Arabian and Persian mythology, most famously featured in the tales of *One Thousand and One Nights* (*Arabian Nights*).",
+      "full": "The Roc (Arabic: الرخ, romanized: al-Rukh; also spelled Rukh, Ruc, or Rokh) is a legendary giant bird of prey from Arabian and Persian mythology, most famously featured in the tales of *One Thousand and One Nights* (*Arabian Nights*). Described as a creature of such enormous size that it could carry elephants in its talons, the Roc represents the ultimate expression of avian power and the wonders of distant lands. Medieval travelers like Marco Polo reported stories of the Roc from the Indian Ocean region, blending folklore with fantastical natural history. The creature embodies themes of adventure, the unknown territories beyond familiar horizons, and the magnificent scale of divine creation in Islamic tradition. As a bridge between myth and exploration narratives, the Roc has captivated imaginations for over a millennium, appearing in literature, art, and popular culture as the archetypal colossal bird."
+    },
+    "etymology": {
+      "origin": "Arabian/Persian",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Universal mythological pattern",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Arabian/Persian",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Arabian/Persian",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
+}
